@@ -1,0 +1,20 @@
+current app has:
+
+genre mvc :name
+song mvc :title :artist :image :mp3file
+user :name :email :password :password_confirmation :role (admin?)
+
+authentication and authorization
+
+
+need to:
+
+user; need to be able to show a profile page for the user - did through Users show
+
+playlist; create a playlist from existing songs based on the user
+
+repost; songs onto the user show page
+
+follow other users; 
+
+like songs; 
